@@ -1,0 +1,14 @@
+.Tile
+{
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+    border: 2px black solid;
+}
+
+img
+{
+    width: 100px;
+    height: 100px;
+}
